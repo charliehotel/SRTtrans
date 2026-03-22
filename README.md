@@ -11,6 +11,17 @@ AI 기반의 빠르고 정확한 SRT 자막 번역기입니다.
 
 ---
 
+<p align="center">
+  <img src="SRT%20Trans%201.png" width="45%" />
+  <img src="SRT%20Trans%202.png" width="45%" />
+</p>
+<p align="center">
+  <img src="SRT%20Trans%203.png" width="45%" />
+  <img src="SRT%20Trans%204.gif" width="45%" />
+</p>
+
+---
+
 ## 주요 기능 (Features)
 
 ### 🚀 강력한 번역 및 제어 기능
