@@ -12,11 +12,11 @@ AI 기반의 빠르고 정확한 SRT 자막 번역기입니다.
 ---
 
 <p align="center">
-  <img src="SRT_Trans_01.png" width="45%" />
-  <img src="SRT_Trans_02.gif" width="45%" />
+  <img src="SRT_Trans_A.png" width="45%" />
+  <img src="SRT_Trans_B.gif" width="45%" />
 </p>
 <p align="center">
-  <img src="SRT_Trans_03.png" width="45%" />
+  <img src="SRT_Trans_C.png" width="45%" />
 </p>
 
 ---
